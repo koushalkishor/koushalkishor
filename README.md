@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Koushal Kishor</h1>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushalkishor&label=Profile%20views&color=0e75b6&style=flat" alt="koushalkishor" /> </p> 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushalkishor" alt="koushalkishor" /></a> </p>
 ## 📖 About me
 
 <!--
