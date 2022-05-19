@@ -28,6 +28,7 @@
   </a>
 </p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor)](https://git.io/streak-stats) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor&theme=radical&count_private=true" alt="koushalkishor" /></p>
 
 ## 📈 Github Stats
 
