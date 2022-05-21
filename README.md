@@ -9,7 +9,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushalkishor&label=Profile%20views&color=0e75b6&style=flat" alt="koushalkishor" /> </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushalkishor" alt="koushalkishor" /></a> </p>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitchauhan4u" alt="mohitchauhan4u" /></a> </p> 
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitchauhan4u" alt="mohitchauhan4u" /></a> </p>  -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=koushalkishor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
@@ -27,7 +27,7 @@
 
 <p >
   <a href="https://github.com/koushalkishor/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor#version3">
   </a>
 </p>
 ## 📈 Github Stats
