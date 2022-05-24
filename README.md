@@ -29,6 +29,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor#version3"/>
   </a>
 </p> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor)](https://git.io/streak-stats) -->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor)](https://git.io/streak-stats)
 
 ## 📈 Github Stats
