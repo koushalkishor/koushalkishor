@@ -24,14 +24,14 @@
 
 ## 🔥 My contribution streak
 
-<!-- <p >
+<p >
   <a href="https://github.com/koushalkishor/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor#version3"/>
   </a>
-</p> -->
+</p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushalkishor)](https://git.io/streak-stats) -->
 
 ## 📈 Github Stats
 
